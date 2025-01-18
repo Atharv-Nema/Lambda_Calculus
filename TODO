@@ -1,0 +1,4 @@
+Use smart pointers instead of pointers
+Probably make use of rvalue overloading to make the whole thing more efficient
+Get a workaround for sideways inheritance in the design
+In performSubstitution, look into using unique_ptr
